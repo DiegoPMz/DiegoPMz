@@ -3,19 +3,9 @@
 ###
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 0 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoPMz&theme=highcontrast&layout=compact" width="100%" height="145" alt="Lenguajes" />
-      </td>
-      <td style="border: none; padding: 0 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=DiegoPMz&theme=highcontrast&show_icons=true" width="100%" height="145" alt="Estadísticas" />
-      </td>
-      <td style="border: none; padding: 0 5px;">
-        <img src="https://streak-stats.demolab.com?user=DiegoPMz&theme=highcontrast" width="100%" height="145" alt="Racha" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoPMz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoPMz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="145" alt="stats graph"  />
+ 
 </div>
 
 ###
