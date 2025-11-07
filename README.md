@@ -8,7 +8,7 @@
 
 ### 🧩 Tecnologías
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,tailwind,nodejs,express,java,spring,cs,supabase" height="34" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,astro,angular,html,css,tailwind,nodejs,express,java,spring,cs,supabase,mysql" height="34" />
 </div>
 
 ---
